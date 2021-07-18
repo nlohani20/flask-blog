@@ -1,0 +1,20 @@
+{
+  "parameters" :
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/codingspider",
+    "prod_uri" : "mysql://root:@localhost/codingspider",
+    "fb_url" : "https://facebook.com/codingspider",
+    "tw_url" : "twitter.com/codingspider",
+    "gh_url" : "https://github.com/codingspider",
+    "tag_line" : "A Blog for Programmers",
+    "blog_name" : "Coding Spider",
+    "gmail_user" : "nlohani20@gmail.com",
+    "gmail_password" : "Password",
+    "about_text" : "Hi, my name is Niraj Lohani. I am studying in Sinhgad College of Engineering, BE, Computer Engineering. I like programming and related stuff.",
+    "no_of_posts" : 3,
+    "admin_user" : "niraj",
+    "admin_password" : "niraj",
+    "upload_location" : "C:\\Users\\nloha\\PycharmProjects\\flasklearn\\static"
+  }
+}
